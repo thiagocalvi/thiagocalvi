@@ -11,8 +11,6 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css&theme=light)](https://skills.thijs.gg)
 
-## And I'm delving into data structures and algorithms in JavaScript.
-
 <br>
 
 ## Here are some stats from my GitHub
