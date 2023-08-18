@@ -11,9 +11,9 @@
 <br>
 
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagocalvi&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagocalvi&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagocalvi&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagocalvi&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
  -->
 ## > Site
-coming soon
+[thiagocalvi.github.io](https://thiagocalvi.github.io/)
