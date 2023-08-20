@@ -6,7 +6,7 @@
 ## > Stacks
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,cpp,nodejs,vscode&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=python,js,html,css,cpp,nodejs,vscode&theme=dark)](https://skills.thijs.gg)
 
 <br>
 
