@@ -5,7 +5,7 @@
 
 ## > Stacks
 
-[![My Skills](https://skillicons.dev/icons?i=c,jaca,js,py,html,css,nodejs,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,js,py,html,css,nodejs,vscode)](https://skillicons.dev)
 
 <br>
 
